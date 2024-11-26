@@ -38,7 +38,7 @@ This project demonstrates web scraping, data cleaning, and visualization skills 
   - **Slicers**: Filters for age group and language.
   - **Word Cloud**: Visual representation of common feedback terms.
   - **Pie Chart**: Feedback counts by language.
-- [View the interactive report](https://app.powerbi.com/reportEmbed?reportId=f602685d-1d24-4c66-90d5-bc73da05d754&autoAuth=true&ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee)
+- [View the interactive report]([https://app.powerbi.com/reportEmbed?reportId=f602685d-1d24-4c66-90d5-bc73da05d754&autoAuth=true&ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee](https://app.powerbi.com/links/fv7tJ4Wed_?ctid=4d1a61d7-b6a5-4f64-8787-f074f87013ee&pbi_source=linkShare))
 
 ---
 
