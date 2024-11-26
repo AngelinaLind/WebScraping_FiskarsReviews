@@ -44,16 +44,16 @@ This project demonstrates web scraping, data cleaning, and visualization skills 
 
 ## Screenshots
 - **Original Website**  
-  ![Website Screenshot](screenshots/Screenshot_Website_Verkkokauppa.png)
+  ![Website Screenshot](Screenshots/Screenshot_Website_Verkkokauppa.png)
 
 - **HTML Exploration**  
-  ![HTML Screenshot](screenshots/Screenshot_html.png)
+  ![HTML Screenshot](Screenshots/Screenshot_html.png)
 
 - **Power Query Data Cleaning**  
-  ![Power Query Screenshot](screenshots/Screenshot_Power_Query.png)
+  ![Power Query Screenshot](Screenshots/Screenshot_Power_Query.png)
 
 - **Power BI Report**  
-  ![Power BI Report Screenshot](screenshots/Screenshot_Power_BI_Report.png)
+  ![Power BI Report Screenshot](Screenshots/Screenshot_Power_BI_Report.png)
 
 ---
 
