@@ -49,9 +49,6 @@ This project demonstrates web scraping, data cleaning, and visualization skills 
 - **HTML Exploration**  
   ![HTML Screenshot](Screenshots/Screenshot_html.png)
 
-- **Power Query Data Cleaning**  
-  ![Power Query Screenshot](Screenshots/Screenshot_Power_Query.png)
-
 - **Power BI Report**  
   ![Power BI Report Screenshot](Screenshots/Screenshot_Power_BI_Report.png)
 
